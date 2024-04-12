@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply
+      h-dvh
+      w-dvw
+      flex 
+      justify-center
+      items-center
+      font-shantell
+  }
+}
